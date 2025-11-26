@@ -1,6 +1,6 @@
 # Solana Escrow dApp
 
-**Deployed Frontend URL:** http://localhost:3000 (Local deployment)
+**Deployed Frontend URL:** [EscrowFi DApp](https://escrowfi.vercel.app/)
 
 **Solana Program ID:** `BGewPFMdAV2kwwfhxAbqGq4bohXsiB9LZmSw8R99QmZ8`
 
@@ -23,7 +23,7 @@ This dApp demonstrates core Solana concepts including Program Derived Addresses 
 ### How to Use the dApp
 
 1. **Connect Wallet**
-   - Visit the frontend at http://localhost:3000
+   - Visit the frontend at [EscrowFi DApp](https://escrowfi.vercel.app/)
    - Click "Connect Wallet" and approve the connection with Phantom or Solflare wallet
    - Ensure you have SOL in your wallet (for devnet/localnet testing, use `solana airdrop`)
 

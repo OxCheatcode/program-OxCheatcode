@@ -1,6 +1,8 @@
 import '../styles/globals.css';
 import AppWalletProvider from '../components/WalletProvider';  // Same file, different export name
 
+
+
 export const metadata = {
   title: 'Solana Escrow',
   description: 'Escrow dApp'
